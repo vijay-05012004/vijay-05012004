@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijay-05012004&show_icons=true&locale=en" alt="vijay-05012004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-05012004&" alt="vijay-05012004" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vijay_Karthick?theme=dark&font=Marcellus&ext=contest)
